@@ -4,14 +4,8 @@ Repository for structural bioinformatics coursework and utilities.
 
 ## Contents
 
-- `hydrophobicity.py` — hydrophobicity calculations
-- `homework1/` — notebooks and assignments (includes `pymol_commands.ipynb`)
+- `homework1/` — all content for homework_1 **Amino Acid Properties in Observed Structural Motifs**
 
-## Usage
 
-- Open the notebooks in Jupyter or VS Code and run the cells.
-- Run scripts with `python` where applicable.
 
-## Notes
 
-Add a license and contribution guidelines as needed.
