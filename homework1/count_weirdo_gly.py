@@ -33,7 +33,7 @@ def find_weirdo_trace():
                 continue
 
     # Find the "Weirdo" (The residue with the most extreme angle)
-    # Average pseudo-dihedral for collagen is usually around 50-60 degrees
+    # Average pseudo-dihedral is usually around 50-60 degrees
     if results:
         results.sort(key=lambda x: x[2])
         min_weird = results[0]
