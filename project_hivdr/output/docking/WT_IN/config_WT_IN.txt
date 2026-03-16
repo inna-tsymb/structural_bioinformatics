@@ -1,0 +1,12 @@
+receptor = IN_WT_receptor.pdbqt
+ligand = DTG_ligand.pdbqt
+
+center_x = 139.870
+center_y = 144.937
+center_z = 122.131
+
+size_x = 25
+size_y = 25
+size_z = 25
+
+exhaustiveness = 10

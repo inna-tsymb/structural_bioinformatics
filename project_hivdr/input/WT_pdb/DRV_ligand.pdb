@@ -1,0 +1,116 @@
+CRYST1   62.150   62.150   82.191  90.00  90.00 120.00 P 61          1
+HETATM    1  N1  LIG A 200       9.980 -15.709   8.523  0.52 19.03      C    N  
+ANISOU    1  N1  LIG A 200     2410   2410   2410      0      0      0  C    N  
+HETATM    2  C2  LIG A 200       9.727 -15.541   7.202  0.52 19.90      C    C  
+ANISOU    2  C2  LIG A 200     2520   2520   2520      0      0      0  C    C  
+HETATM    3  C3  LIG A 200      10.124 -14.382   6.537  0.52 18.89      C    C  
+ANISOU    3  C3  LIG A 200     2392   2392   2392      0      0      0  C    C  
+HETATM    4  C4  LIG A 200       9.847 -14.231   5.181  0.52 17.95      C    C  
+ANISOU    4  C4  LIG A 200     2273   2273   2273      0      0      0  C    C  
+HETATM    5  C5  LIG A 200       9.185 -15.241   4.482  0.52 16.30      C    C  
+ANISOU    5  C5  LIG A 200     2064   2064   2064      0      0      0  C    C  
+HETATM    6  C6  LIG A 200       8.782 -16.382   5.161  0.52 14.81      C    C  
+ANISOU    6  C6  LIG A 200     1876   1876   1876      0      0      0  C    C  
+HETATM    7  C7  LIG A 200       9.055 -16.536   6.511  0.52 17.32      C    C  
+ANISOU    7  C7  LIG A 200     2194   2194   2194      0      0      0  C    C  
+HETATM    8  S8  LIG A 200       8.829 -15.114   2.927  0.52 16.08      C    S  
+ANISOU    8  S8  LIG A 200     2037   2037   2037      0      0      0  C    S  
+HETATM    9  O9  LIG A 200       7.647 -15.891   2.703  0.52 17.35      C    O  
+ANISOU    9  O9  LIG A 200     2197   2197   2197      0      0      0  C    O  
+HETATM   10  O10 LIG A 200       8.550 -13.760   2.611  0.52 15.05      C    O  
+ANISOU   10  O10 LIG A 200     1906   1906   1906      0      0      0  C    O  
+HETATM   11  N11 LIG A 200       9.990 -15.610   1.907  0.52 17.21      C    N  
+ANISOU   11  N11 LIG A 200     2180   2180   2180      0      0      0  C    N  
+HETATM   12  C12 LIG A 200      11.304 -15.076   2.300  0.52 18.60      C    C  
+ANISOU   12  C12 LIG A 200     2356   2356   2356      0      0      0  C    C  
+HETATM   13  C13 LIG A 200      11.984 -14.273   1.189  0.52 19.57      C    C  
+ANISOU   13  C13 LIG A 200     2479   2479   2479      0      0      0  C    C  
+HETATM   14  C14 LIG A 200      12.400 -15.156   0.028  0.52 20.17      C    C  
+ANISOU   14  C14 LIG A 200     2555   2555   2555      0      0      0  C    C  
+HETATM   15  C15 LIG A 200      11.140 -13.105   0.691  0.52 16.72      C    C  
+ANISOU   15  C15 LIG A 200     2118   2118   2118      0      0      0  C    C  
+HETATM   16  C16 LIG A 200      10.026 -17.080   1.803  0.52 15.55      C    C  
+ANISOU   16  C16 LIG A 200     1969   1969   1969      0      0      0  C    C  
+HETATM   17  C17 LIG A 200       9.848 -17.452   0.337  0.52 15.26      C    C  
+ANISOU   17  C17 LIG A 200     1933   1933   1933      0      0      0  C    C  
+HETATM   18  O18 LIG A 200      10.107 -18.840   0.130  0.52 13.29      C    O  
+ANISOU   18  O18 LIG A 200     1683   1683   1683      0      0      0  C    O  
+HETATM   19  C19 LIG A 200       8.444 -17.082  -0.126  0.52 16.59      C    C  
+ANISOU   19  C19 LIG A 200     2101   2101   2101      0      0      0  C    C  
+HETATM   20  N20 LIG A 200       8.460 -17.308  -1.553  0.52 12.55      C    N  
+ANISOU   20  N20 LIG A 200     1590   1590   1590      0      0      0  C    N  
+HETATM   21  C21 LIG A 200       8.364 -16.327  -2.442  0.52 11.39      C    C  
+ANISOU   21  C21 LIG A 200     1443   1443   1443      0      0      0  C    C  
+HETATM   22  O22 LIG A 200       8.262 -15.149  -2.157  0.52 10.75      C    O  
+ANISOU   22  O22 LIG A 200     1362   1362   1362      0      0      0  C    O  
+HETATM   23  O23 LIG A 200       8.406 -16.745  -3.828  0.52 13.93      C    O  
+ANISOU   23  O23 LIG A 200     1764   1764   1764      0      0      0  C    O  
+HETATM   24  C24 LIG A 200       7.977 -15.839  -4.824  0.52 14.54      C    C  
+ANISOU   24  C24 LIG A 200     1842   1842   1842      0      0      0  C    C  
+HETATM   25  C25 LIG A 200       8.953 -16.084  -5.956  0.52 15.18      C    C  
+ANISOU   25  C25 LIG A 200     1923   1923   1923      0      0      0  C    C  
+HETATM   26  O26 LIG A 200       8.451 -17.259  -6.599  0.52 16.27      C    O  
+ANISOU   26  O26 LIG A 200     2061   2061   2061      0      0      0  C    O  
+HETATM   27  C27 LIG A 200       7.031 -17.353  -6.418  0.52 14.15      C    C  
+ANISOU   27  C27 LIG A 200     1792   1792   1792      0      0      0  C    C  
+HETATM   28  O28 LIG A 200       6.659 -18.631  -5.890  0.52 12.92      C    O  
+ANISOU   28  O28 LIG A 200     1636   1636   1636      0      0      0  C    O  
+HETATM   29  C29 LIG A 200       5.978 -18.519  -4.642  0.52 10.34      C    C  
+ANISOU   29  C29 LIG A 200     1310   1310   1310      0      0      0  C    C  
+HETATM   30  C30 LIG A 200       5.764 -17.035  -4.395  0.52 14.60      C    C  
+ANISOU   30  C30 LIG A 200     1849   1849   1849      0      0      0  C    C  
+HETATM   31  C31 LIG A 200       6.656 -16.317  -5.383  0.52 12.50      C    C  
+ANISOU   31  C31 LIG A 200     1583   1583   1583      0      0      0  C    C  
+HETATM   32  C32 LIG A 200       7.414 -18.061   0.418  0.52 14.47      C    C  
+ANISOU   32  C32 LIG A 200     1833   1833   1833      0      0      0  C    C  
+HETATM   33  C33 LIG A 200       5.428 -16.624  -0.067  0.52 16.71      C    C  
+ANISOU   33  C33 LIG A 200     2116   2116   2116      0      0      0  C    C  
+HETATM   34  C34 LIG A 200       4.211 -16.395  -0.696  0.52 20.40      C    C  
+ANISOU   34  C34 LIG A 200     2584   2584   2584      0      0      0  C    C  
+HETATM   35  C35 LIG A 200       3.663 -17.356  -1.534  0.52 19.37      C    C  
+ANISOU   35  C35 LIG A 200     2453   2453   2453      0      0      0  C    C  
+HETATM   36  C36 LIG A 200       4.337 -18.558  -1.731  0.52 16.87      C    C  
+ANISOU   36  C36 LIG A 200     2137   2137   2137      0      0      0  C    C  
+HETATM   37  C37 LIG A 200       5.554 -18.797  -1.104  0.52 12.25      C    C  
+ANISOU   37  C37 LIG A 200     1551   1551   1551      0      0      0  C    C  
+HETATM   38  C38 LIG A 200       6.098 -17.823  -0.272  0.52 15.44      C    C  
+ANISOU   38  C38 LIG A 200     1955   1955   1955      0      0      0  C    C  
+CONECT    1    2
+CONECT    2    1    3    7
+CONECT    3    2    4
+CONECT    4    3    5
+CONECT    5    4    6    8
+CONECT    6    5    7
+CONECT    7    2    6
+CONECT    8    5    9   10   11
+CONECT    9    8
+CONECT   10    8
+CONECT   11    8   12   16
+CONECT   12   11   13
+CONECT   13   12   14   15
+CONECT   14   13
+CONECT   15   13
+CONECT   16   11   17
+CONECT   17   16   18   19
+CONECT   18   17
+CONECT   19   17   20   32
+CONECT   20   19   21
+CONECT   21   20   22   23
+CONECT   22   21
+CONECT   23   21   24
+CONECT   24   23   25   31
+CONECT   25   24   26
+CONECT   26   25   27
+CONECT   27   26   28   31
+CONECT   28   27   29
+CONECT   29   28   30
+CONECT   30   29   31
+CONECT   31   24   27   30
+CONECT   32   19   38
+CONECT   33   34   38
+CONECT   34   33   35
+CONECT   35   34   36
+CONECT   36   35   37
+CONECT   37   36   38
+CONECT   38   32   33   37
+END

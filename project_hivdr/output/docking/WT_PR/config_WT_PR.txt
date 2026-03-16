@@ -1,0 +1,12 @@
+receptor = PR_WT_receptor.pdbqt
+ligand = DRV_ligand.pdbqt
+
+center_x = 8.280
+center_y = -16.385
+center_z = 0.027
+
+size_x = 25
+size_y = 25
+size_z = 25
+
+exhaustiveness = 10
