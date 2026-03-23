@@ -1,0 +1,26 @@
+# ===========================================================================
+command: prodigy cluster15_1_clean.pdb --selection A B --temperature 25 --contact_list --pymol_selection
+exit status: 0
+log:
+[!] Structure contains gaps:
+	A GLY345 < Fragment 0 > A MET426
+	B CYS56 < Fragment 1 > B PHE139
+	B VAL150 < Fragment 2 > B LYS186
+	B SER195 < Fragment 3 > B ILE208
+	B SER357 < Fragment 4 > B ARG487
+	B SER495 < Fragment 5 > B ILE508
+
+[+] Executing 1 task(s) in total
+##########################################
+[+] Processing structure cluster15_1_clean_model0
+[+] No. of intermolecular contacts: 52
+[+] No. of charged-charged contacts: 7.0
+[+] No. of charged-polar contacts: 10.0
+[+] No. of charged-apolar contacts: 8.0
+[+] No. of polar-polar contacts: 2.0
+[+] No. of apolar-polar contacts: 9.0
+[+] No. of apolar-apolar contacts: 16.0
+[+] Percentage of apolar NIS residues: 35.11
+[+] Percentage of charged NIS residues: 30.15
+[++] Predicted binding affinity (kcal.mol-1):     -8.3
+[++] Predicted dissociation constant (M) at 25.0˚C:  7.7e-07
