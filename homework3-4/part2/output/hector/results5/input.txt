@@ -1,0 +1,6 @@
+Residue A: 181 Atom: CA
+Residue B: 247 Atom: CA
+R-factor:-0.5
+RMSD threshold:5
+Minimum amount of Interface Residues:10
+Clash threshold:500

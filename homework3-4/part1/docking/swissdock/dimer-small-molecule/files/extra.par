@@ -1,0 +1,128 @@
+*  ---- 
+* Built RTF for L3D_corr_0.mol2
+*    by user SwissParam     Fri 13 Oct 2023 14:15:35 CEST
+* ---- 
+*
+
+ATOMS
+MASS    -1 CR    12.011000
+MASS    -1 CB    12.011000
+MASS    -1 CO2M  12.011000
+MASS    -1 O2CM  15.999400
+MASS    -1 OR    15.999400
+MASS    -1 NPYD  14.006700
+MASS    -1 HCMM   1.007940
+
+BONDS
+CR   CR    306.432     1.5080 
+CR   OR    363.214     1.4180 
+CB   CB    401.068     1.3740 
+CB   NPYD  412.870     1.3330 
+CB   CR    356.737     1.4860 
+CR   CO2M  275.631     1.5100 
+CB   OR    404.019     1.3760 
+CO2M O2CM  702.103     1.2610 
+CR   HCMM  342.991     1.0930 
+CB   HCMM  381.853     1.0840 
+
+ANGLES
+CB   CR   HCMM   45.122    109.4910 
+HCMM CR   HCMM   37.134    108.8360 
+CR   CB   CB     57.788    120.4190 
+CR   CB   NPYD   71.390    118.4320 
+CB   CB   NPYD   42.892    126.1390 
+CB   CB   CB     48.145    119.9770 
+CB   CR   CO2M   72.757    109.8330 
+CB   CR   OR     63.186    107.9780 
+CO2M CR   OR     95.930    106.4670 
+CO2M CR   HCMM   37.782    108.9040 
+OR   CR   HCMM   56.205    108.5770 
+CR   CO2M O2CM   87.007    114.6890 
+O2CM CO2M O2CM   84.991    130.6000 
+CR   OR   CR     86.143    106.9260 
+OR   CR   CR     71.390    108.1330 
+CR   CR   CR     61.243    109.6080 
+CR   CR   HCMM   45.770    110.5490 
+CB   CB   HCMM   40.517    120.5710 
+CB   CB   OR     69.663    116.4950 
+CB   NPYD CB     78.083    115.4060 
+NPYD CB   HCMM   49.872    115.5880 
+CB   CR   CR     54.406    108.6170 
+CB   OR   CR     77.363    102.8460 
+
+DIHEDRALS
+CR   CB   CB   CR       3.500  2   180.00 
+CR   CB   CB   CB       3.500  2   180.00 
+CR   CB   NPYD CB       3.500  2   180.00 
+CB   CB   CR   CO2M     0.100  3     0.00 
+CB   CB   CR   OR       0.075  3     0.00 
+CB   CB   CR   HCMM    -0.210  2   180.00 
+CB   CB   CR   HCMM     0.196  3     0.00 
+CB   CB   CB   CB       1.000  2   180.00 
+CB   NPYD CB   CB       3.500  2   180.00 
+CB   CR   CO2M O2CM     0.300  2   180.00 
+CB   CR   OR   CR       0.100  3     0.00 
+CR   CB   CB   NPYD     3.500  2   180.00 
+CR   OR   CR   CR      -0.341  1     0.00 
+CR   OR   CR   CR       0.378  2   180.00 
+CR   OR   CR   CR       0.378  3     0.00 
+CO2M CR   OR   CR       0.100  3     0.00 
+O2CM CO2M CR   OR       0.300  2   180.00 
+O2CM CO2M CR   HCMM    -0.053  3     0.00 
+OR   CR   CR   HCMM    -0.327  1     0.00 
+OR   CR   CR   HCMM     0.536  2   180.00 
+OR   CR   CR   HCMM     0.140  3     0.00 
+CR   OR   CR   HCMM     0.285  1     0.00 
+CR   OR   CR   HCMM     0.160  2   180.00 
+CR   OR   CR   HCMM     0.285  3     0.00 
+CR   CR   CR   HCMM     0.320  1     0.00 
+CR   CR   CR   HCMM    -0.315  2   180.00 
+CR   CR   CR   HCMM     0.132  3     0.00 
+CB   CB   CB   NPYD     3.500  2   180.00 
+CB   CB   CB   HCMM     1.000  2   180.00 
+CB   CB   CB   OR       3.500  2   180.00 
+CB   CB   OR   CR       2.191  2   180.00 
+CB   OR   CR   CR       0.100  3     0.00 
+CB   OR   CR   HCMM     0.053  3     0.00 
+CB   CB   CR   CR       0.225  2   180.00 
+CB   NPYD CB   HCMM     3.500  2   180.00 
+NPYD CB   CB   HCMM     3.500  2   180.00 
+CB   CR   CR   OR       0.150  3     0.00 
+CB   CR   CR   HCMM     0.195  3     0.00 
+CR   CB   CB   HCMM     3.500  2   180.00 
+OR   CB   CB   HCMM     3.500  2   180.00 
+NPYD CB   CR   HCMM     0.100  3     0.00 
+HCMM CB   CB   HCMM     3.500  2   180.00 
+HCMM CR   CR   HCMM     0.142  1     0.00 
+HCMM CR   CR   HCMM    -0.693  2   180.00 
+HCMM CR   CR   HCMM     0.157  3     0.00 
+
+IMPROPER
+CR   HCMM CB   HCMM     0.000  0     0.00 
+CB   CB   CR   NPYD     2.519  0     0.00 
+CB   CB   CB   CR       2.879  0     0.00 
+CR   OR   CB   CO2M     0.000  0     0.00 
+CR   OR   CB   HCMM     0.000  0     0.00 
+CO2M O2CM CR   O2CM    12.810  0     0.00 
+CR   CR   OR   CR       0.000  0     0.00 
+CB   CB   CB   CB       2.519  0     0.00 
+CB   CB   CB   HCMM     1.079  0     0.00 
+CB   CB   CB   OR       3.454  0     0.00 
+CB   CB   CB   NPYD     2.519  0     0.00 
+CB   CB   NPYD HCMM     3.310  0     0.00 
+CB   CB   NPYD CB       2.519  0     0.00 
+CR   HCMM CR   HCMM     0.000  0     0.00 
+CR   CR   CB   HCMM     0.000  0     0.00 
+CR   CR   OR   HCMM     0.000  0     0.00 
+
+NONBONDED nbxmod  5 atom cdiel shift vatom vdistance vswitch - 
+cutnb 14.0 ctofnb 12.0 ctonnb 10.0 eps 1.0 e14fac 1.0 wmin 1.5 
+CR      0.000000  -0.056000     2.010000   0.000000  -0.010000     1.900000    
+CB      0.000000  -0.070000     1.992400    
+CO2M    0.000000  -0.070000     2.000000    
+O2CM    0.000000  -0.120000     1.700000    
+OR      0.000000  -0.152100     1.770000    
+NPYD    0.000000  -0.200000     1.850000    
+HCMM    0.000000  -0.022000     1.320000    
+
+
