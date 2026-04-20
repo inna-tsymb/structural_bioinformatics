@@ -1,0 +1,23 @@
+PyMOL>super 2b4j and chain A+B, cluster1_1
+ MatchAlign: aligning residues (332 vs 280)...
+ MatchAlign: score 1271.847
+ ExecutiveAlign: 2169 atoms aligned.
+ ExecutiveRMS: 112 atoms rejected during cycle 1 (RMSD=0.86).
+ ExecutiveRMS: 65 atoms rejected during cycle 2 (RMSD=0.71).
+ ExecutiveRMS: 34 atoms rejected during cycle 3 (RMSD=0.66).
+ ExecutiveRMS: 20 atoms rejected during cycle 4 (RMSD=0.64).
+ ExecutiveRMS: 10 atoms rejected during cycle 5 (RMSD=0.63).
+ Executive: RMSD =    0.626 (1928 to 1928 atoms)
+
+ PyMOL>iterate target_surface and name CA, print(f"{chain}:{resi}")
+A:167
+A:168
+A:169
+A:170
+A:171
+B:125
+B:127
+B:128
+B:129
+B:132
+ Iterate: iterated over 10 atoms.

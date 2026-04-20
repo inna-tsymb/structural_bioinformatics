@@ -1,0 +1,19 @@
+; ligand.pdb.mol2_GMX_OPLS.top created by acpype (v: 2022.7.21) on Tue Mar 24 12:36:21 2026
+
+; Include forcefield parameters
+#include "ffoplsaa.itp"
+
+; Include ligand.pdb.mol2_GMX.itp topology
+#include "ligand.pdb.mol2_GMX.itp"
+
+; Ligand position restraints
+#ifdef POSRES_LIG
+#include "posre_ligand.pdb.mol2.itp"
+#endif
+
+[ system ]
+ ligand.pdb.mol2
+
+[ molecules ]
+; Compound        nmols
+ ligand.pdb.mol2  1

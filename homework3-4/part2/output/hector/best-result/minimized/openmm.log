@@ -1,0 +1,13 @@
+Minimizing...
+using mixed precision on CUDA
+0%  Energy: 6070.28 kcal/mol per amino acid on average
+10%  Energy: -13.69 kcal/mol per amino acid on average
+20%  Energy: -17.9 kcal/mol per amino acid on average
+30%  Energy: -18.65 kcal/mol per amino acid on average
+40%  Energy: -19.03 kcal/mol per amino acid on average
+50%  Energy: -19.22 kcal/mol per amino acid on average
+60%  Energy: -19.46 kcal/mol per amino acid on average
+70%  Energy: -19.59 kcal/mol per amino acid on average
+80%  Energy: -19.69 kcal/mol per amino acid on average
+90%  Energy: -19.75 kcal/mol per amino acid on average
+100%  Energy: -19.82 kcal/mol per amino acid on average

@@ -1,9 +1,0 @@
-Date: Tue 24 Mar 2026 13:11:12 
-Target: cluster1_1.pdb
-Method: AC
-Ligand: Cc1nc2ccccc2c(-c2ccc3OCCc4ccnc2c34)c1C(OC(C)(C)C)C([O-])=O
-Sampling exhaustivity: 90
-Cavity prioritization: 70
-Random Initial Conditions: 5
-Box size: 25 25 25
-Box center: -1.0 0.0 2.0

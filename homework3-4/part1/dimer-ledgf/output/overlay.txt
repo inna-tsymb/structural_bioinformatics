@@ -1,0 +1,16 @@
+CmdLoad: "" loaded as "cluster15_1_clean".
+ Setting: seq_view set to on.
+PyMOL>fetch 2b4j
+TITLE     Structural basis for the recognition between HIV-1 integrase and LEDGF/p75
+ ExecutiveLoad-Detail: Detected mmCIF
+ CmdLoad: "./2b4j.cif" loaded as "2b4j".
+PyMOL>super cluster15_1_clean and chain B and resi 56-208, 2b4j and chain A
+ MatchAlign: aligning residues (135 vs 166)...
+ MatchAlign: score 610.771
+ ExecutiveAlign: 1042 atoms aligned.
+ ExecutiveRMS: 46 atoms rejected during cycle 1 (RMSD=0.81).
+ ExecutiveRMS: 27 atoms rejected during cycle 2 (RMSD=0.70).
+ ExecutiveRMS: 11 atoms rejected during cycle 3 (RMSD=0.66).
+ ExecutiveRMS: 9 atoms rejected during cycle 4 (RMSD=0.65).
+ ExecutiveRMS: 6 atoms rejected during cycle 5 (RMSD=0.64).
+ Executive: RMSD =    0.631 (943 to 943 atoms)
